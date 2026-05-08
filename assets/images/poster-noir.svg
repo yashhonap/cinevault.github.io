@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" role="img" aria-label="Noir science fiction poster">
+  <defs>
+    <radialGradient id="r" cx=".62" cy=".38" r=".64">
+      <stop offset="0" stop-color="#f4cf75" stop-opacity=".86"/>
+      <stop offset=".35" stop-color="#233848"/>
+      <stop offset="1" stop-color="#05070d"/>
+    </radialGradient>
+  </defs>
+  <rect width="760" height="480" fill="url(#r)"/>
+  <path d="M378 78c78 0 141 63 141 141s-63 141-141 141-141-63-141-141S300 78 378 78Z" fill="#05070d" opacity=".74"/>
+  <path d="M378 116c57 0 103 46 103 103s-46 103-103 103-103-46-103-103 46-103 103-103Z" fill="none" stroke="#42c6bd" stroke-width="8" opacity=".75"/>
+  <path d="M0 380c171-38 315-38 457 0 97 26 198 30 303 8v92H0V380Z" fill="#05070d"/>
+  <path d="M118 394h248v22H118zM118 430h418v14H118z" fill="#f7f1e8" opacity=".8"/>
+</svg>

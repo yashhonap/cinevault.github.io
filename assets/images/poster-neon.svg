@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" role="img" aria-label="Neon thriller poster">
+  <rect width="760" height="480" fill="#05070d"/>
+  <path d="M0 0h760v480H0z" fill="#1a0d18"/>
+  <path d="M120 74h520v332H120z" fill="#08111b" stroke="#d6aa4f" stroke-width="4"/>
+  <path d="M172 128h416v226H172z" fill="#130b16"/>
+  <path d="M206 354 382 132l174 222H206Z" fill="#c93f54" opacity=".86"/>
+  <path d="M258 354 383 196l122 158H258Z" fill="#42c6bd" opacity=".82"/>
+  <path d="M228 390h304" stroke="#f4cf75" stroke-width="14" opacity=".78"/>
+</svg>

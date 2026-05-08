@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" role="img" aria-label="Aurora movie poster">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#121827"/>
+      <stop offset=".48" stop-color="#123037"/>
+      <stop offset="1" stop-color="#05070d"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="480" fill="url(#bg)"/>
+  <circle cx="552" cy="134" r="86" fill="#f4cf75" opacity=".82"/>
+  <path d="M0 310c142-94 240-91 358-28 123 65 248 62 402-45v243H0V310Z" fill="#071018"/>
+  <path d="M0 246c154-84 286-84 408 0s223 82 352-6" fill="none" stroke="#42c6bd" stroke-width="16" opacity=".72"/>
+  <path d="M106 352h182v26H106zM106 394h330v18H106z" fill="#f7f1e8" opacity=".85"/>
+</svg>
